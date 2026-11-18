@@ -1,9 +1,10 @@
 # AI Portfolio
 
-I'm Damilola,  I am learning AI Response Evaluation Framework, AI Hallucination Detection, AI Model Comparison and Benchmarking, AI Data Annotation and Quality Assessment, AI Safety and Red Teaming, i am aiming to build AI systems that automate business operations.
+I am Damilola. I am learning how to evaluate AI-generated responses, identify errors, and assess their accuracy and usefulness while building practical projects to improve my skills.
+
 ## About this repo
 
-[My evaluation projects, code and documentation are stored here.]
+My evaluation projects, code and documentation are stored here.
 
 ## Projects
 
