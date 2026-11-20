@@ -18,13 +18,13 @@ Response C: William Shakespeare wrote Romeo and Juliet in the 18th century. He w
 ## Scoring
 
 ### Response A
-- Accuracy: 5/5. Evidence:  Shakespeare wrote Romeo and Juliet, generally dated to the late 16th century.
+- Accuracy: 5/5. Evidence: It has 0 factual errors. Shakespeare wrote Romeo and Juliet, generally dated to the late 16th century.
 - Instruction Following: 5/5. Evidence: It meets 3 of 3 instructions: it gives an author, gives a century and uses one sentence.
 - Clarity: 5/5. Evidence: It has 1 sentence, 0 repeated sentences and 0 unexplained technical terms.
 - Total: 15/15
 
 ### Response B
-- Accuracy: 2/5. Evidence: It has 1 factual error. Christopher Marlowe did not write the play; William Shakespeare did. The century is correct. The author is the main fact the prompt asks for, so I scored it between 1 and 3.
+- Accuracy: 2/5. Evidence: It has 1 factual error. Christopher Marlowe did not write the play; William Shakespeare did. The century is correct. The author is the main fact the prompt asks for, so this falls between my anchor for 1 (the main explanation is incorrect) and my anchor for 3 (the main explanation is correct but has one error).
 - Instruction Following: 5/5. Evidence: It meets 3 of 3 instructions: it gives an author, gives a century and uses one sentence. The wrong author is scored under Accuracy only.
 - Clarity: 5/5. Evidence: It has 1 sentence, 0 repeated sentences and 0 unexplained technical terms.
 - Total: 12/15
