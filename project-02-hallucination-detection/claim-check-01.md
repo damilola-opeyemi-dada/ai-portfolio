@@ -9,11 +9,11 @@ I split each response into single claims, checked each claim against a reliable 
 | Claim | Label | Source and date checked |
 |---|---|---|
 | 1. The Eiffel Tower was completed in 1889. | Supported | Official Eiffel Tower website - History. Checked 20 November 2026. |
-| 2. The Eiffel Tower was built for the World's Fair in Paris. | Supported | Official Eiffel Tower website - History. Checked 20 November 2026. |
+| 2. The Eiffel Tower was built for the World's Fair in Paris. | Cannot verify | Searched the official Eiffel Tower website History page for "World's Fair" and "Exposition Universelle". Not found. Checked 20 November 2026. |
 | 3. The Eiffel Tower stands over 300 metres tall. | Supported | Official Eiffel Tower website - Current height is 330 metres. Checked 20 November 2026. |
 | 4. The Eiffel Tower is located in Berlin. | Contradicted | Official Eiffel Tower website confirms its location in Paris, France. Checked 20 November 2026. |
 
-Hallucinated claims: 1 of 4
+Hallucinated claims: 2 of 4
 
 ## Response 2
 "Chinua Achebe was a Nigerian novelist best known for Things Fall Apart, published in 1958. He won the Nobel Prize in Literature in 1986."
