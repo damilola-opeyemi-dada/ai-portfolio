@@ -63,4 +63,4 @@ I learned that checking every individual claim is more reliable than judging an 
 
 The most important lesson is that one false statement can undermine an otherwise accurate AI response.
 
-The false claims were written in the same confident tone as the true ones, so they could not be spotted by style. Some were near misses. In Response 2, the 1986 Nobel Prize in Literature did go to a Nigerian writer, but to Wole Soyinka, not Chinua Achebe. I did not meet any claim I had to label "Cannot verify", so that label was not tested in this check.
+The false claims were written in the same confident tone as the true ones, so they could not be spotted by style. Some were near misses. In Response 2, the 1986 Nobel Prize in Literature did go to a Nigerian writer, but to Wole Soyinka, not Chinua Achebe. I used the label "Cannot verify" once. The official Eiffel Tower History page did not say the tower was built for the World's Fair, so I could not confirm that claim from that source. This does not prove it is false, only that I could not verify it there.
