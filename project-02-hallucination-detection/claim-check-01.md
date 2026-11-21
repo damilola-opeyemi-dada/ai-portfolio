@@ -9,11 +9,11 @@ I split each response into single claims, checked each claim against a reliable 
 | Claim | Label | Source and date checked |
 |---|---|---|
 | 1. The Eiffel Tower was completed in 1889. | Supported | [Official Eiffel Tower website - History](https://toureiffel.paris/en/the-monument/history). Checked 20 November 2026. |
-| 2. The Eiffel Tower was built for the World's Fair in Paris. | Cannot verify | Searched the official Eiffel Tower website History page for "World's Fair" and "Exposition Universelle". Not found. Checked 20 November 2026. |
+| 2. The Eiffel Tower was built for the World's Fair in Paris. | Supported | [Official Eiffel Tower website - Universal Exhibition](https://www.toureiffel.paris/en/the-monument/universal-exhibition). I first searched only the History page and did not find it, so I first labelled this Cannot verify. Rechecked 21 November 2026. |
 | 3. The Eiffel Tower stands over 300 metres tall. | Supported | [Official Eiffel Tower website - Current height](https://www.toureiffel.paris/en/the-monument/key-figures) is 330 metres. Checked 20 November 2026. |
 | 4. The Eiffel Tower is located in Berlin. | Contradicted | [Official Eiffel Tower website](https://toureiffel.paris/en/the-monument/history) confirms its location in Paris, France. Checked 20 November 2026. |
 
-Hallucinated claims: 2 of 4
+Hallucinated claims: 1 of 4
 
 ## Response 2
 "Chinua Achebe was a Nigerian novelist best known for Things Fall Apart, published in 1958. He won the Nobel Prize in Literature in 1986."
@@ -63,4 +63,6 @@ I learned that checking every individual claim is more reliable than judging an 
 
 The most important lesson is that one false statement can undermine an otherwise accurate AI response.
 
-The false claims were written in the same confident tone as the true ones, so they could not be spotted by style. Some were near misses. In Response 2, the 1986 Nobel Prize in Literature did go to a Nigerian writer, but to Wole Soyinka, not Chinua Achebe. I used the label "Cannot verify" once. The official Eiffel Tower History page did not say the tower was built for the World's Fair, so I could not confirm that claim from that source. This does not prove it is false, only that I could not verify it there.
+The false claims were written in the same confident tone as the true ones, so they could not be spotted by style. Some were near misses. In Response 2, the 1986 Nobel Prize in Literature did go to a Nigerian writer, but to Wole Soyinka, not Chinua Achebe.
+
+I also corrected one of my own labels. For Response 1, I first searched only the official History page for the World's Fair wording, did not find it, and labelled the claim Cannot verify. When I looked at another page on the same official site, the Universal Exhibition page, it confirmed the claim, so I changed the label to Supported. This taught me that Cannot verify only describes where I looked, and that I should check more than one page before using it.

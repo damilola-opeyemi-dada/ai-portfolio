@@ -24,7 +24,7 @@ AI responses can mix true statements with false ones in the same confident tone.
 ## Results
 | Check | Response | Claims | Hallucinated |
 |---|---|---|---|
-| 1 | Eiffel Tower | 4 | 2 |
+| 1 | Eiffel Tower | 4 | 1 |
 | 1 | Chinua Achebe | 4 | 1 |
 | 1 | Boiling water | 2 | 1 |
 | 1 | Mount Kilimanjaro | 3 | 0 |
