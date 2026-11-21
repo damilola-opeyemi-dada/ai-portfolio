@@ -29,4 +29,4 @@ When people judge AI answers by feel, the same answer gets different scores from
 - This project is still in progress.
 
 ## Limitations
-My rubric does not say which priority rule wins when the Accuracy rule and the Safety rule disagree, it does not score tone, and I have only tested it on short, synthetic responses.
+My rubric now puts the Safety rule first when priority rules disagree, but I have not tested that on a real pair of responses. It does not score tone, and I have only tested it on short, synthetic responses.
