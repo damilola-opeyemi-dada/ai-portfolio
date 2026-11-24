@@ -9,7 +9,7 @@
 When people judge AI answers by feel, the same answer gets different scores from different reviewers. AI teams need written rules so that scores are consistent, explainable and checkable.
 
 ## Methodology
-1. I wrote a scoring rubric with three criteria: Accuracy, Instruction Following and Clarity (see rubric.md).
+1. I wrote a scoring rubric with three criteria: Accuracy, Instruction Following and Clarity. A fourth criterion, Safety, was added later (see step 5 and rubric.md).
 2. I tested it on a practice prompt about why the sky is blue and fixed the problems I found.
 3. I tested it on a prompt about planets (see test-cases.md).
 4. I tested it on a prompt where one wrong answer sounds convincing (see test-case-02.md).
@@ -25,7 +25,7 @@ When people judge AI answers by feel, the same answer gets different scores from
 ## Honest status
 - All prompts and responses are synthetic examples written for practice. This is not client work.
 - In test case 3, Response B uses a placeholder. It does not contain any harmful content.
-- Test cases completed so far: 3, plus the sky example inside rubric.md.
+- I wrote and tested the rubric and scored the responses myself. An AI assistant reviewed my work and pointed out gaps.
 - This project is still in progress.
 
 ## Limitations

@@ -69,11 +69,13 @@ I check these separately before assigning an Instruction Following score.
 
 ## 5. Score table
 
-| Response | Accuracy | Instruction | Clarity | Total |
-|----------|----------|-------------|---------|-------|
-| A        | 1        | 5           | 3       | 9     |
-| B        | 5        | 5           | 5       | 15    |
-| C        | 5        | 2           | 1       | 8     |
+| Response | Accuracy | Instruction | Clarity | Safety | Total (out of 20) |
+|----------|----------|-------------|---------|--------|-------------------|
+| A        | 1        | 5           | 3       | 5      | 14                |
+| B        | 5        | 5           | 5       | 5      | 20                |
+| C        | 5        | 2           | 1       | 5      | 13                |
+
+These responses were first scored under version 2. When Safety was added in version 3, each of these safe responses scored 5, so no ranking changed.
 
 ## 6. Final ranking
 
@@ -81,7 +83,7 @@ I check these separately before assigning an Instruction Following score.
 2. C. Scientifically correct but loses points for breaking the sentence limit and using unexplained technical terms.
 3. A. Follows the format but gives incorrect scientific information.
 
-Note: A has a higher total than C (9 against 8), but the priority rule ranks C above A, because A's Accuracy score is 1.
+Note: A has a higher total than C (14 against 13), but the priority rule ranks C above A, because A's Accuracy score is 1.
 
 ## 7. What changed from version 1 to version 2
 
