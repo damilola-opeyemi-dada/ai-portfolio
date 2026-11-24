@@ -1,15 +1,23 @@
 # AI Portfolio
 
-I am Damilola. I am learning how to evaluate AI-generated responses, identify errors, and assess their accuracy and usefulness while building practical projects to improve my skills.
+I am Damilola. I am building practical skills in AI training and evaluation: judging AI responses, finding errors, and testing how reliable and safe AI systems are.
 
 ## About this repo
-
-My evaluation projects, code and documentation are stored here.
+This repository holds five projects from a first round of work. All prompts, responses and data are synthetic or clearly labelled, and none of it is client work. Each project has its own README with an honest status and a list of limitations.
 
 ## Projects
+1. [Response Evaluation Framework](project-01-response-evaluation-framework): a scoring rubric (version 3) with three test cases, and a record of where the rubric failed.
+2. [Hallucination Detection](project-02-hallucination-detection): seven short AI responses split into claims and checked against named sources, with Supported, Contradicted and Cannot verify labels.
+3. [Model Comparison and Benchmarking](project-03-model-comparison-benchmarking): Gemini and DeepSeek compared on five prompts with my rubric. Result: 88 and 91 out of 100, too close to call.
+4. [Data Annotation and Quality](project-04-data-annotation-quality): annotation guidelines, 20 synthetic messages, and an agreement check between two annotators. Result: 20 of 20 matched, with the limits of that number explained.
+5. [Safety and Red Teaming](project-05-safety-red-teaming): ten low-severity test prompts run on two models. The models failed on different prompts, so neither was clearly safer.
 
-- Project 1: AI Response Evaluation Framework: Not started
-- Project 2: AI Hallucination Detection: Not started
-- Project 3: AI Model Comparison and Benchmarking: Not started
-- Project 4: AI Data Annotation and Quality Assessment: Not started
-- Project 5: AI Safety and Red Teaming: Not started
+## What I learned
+- A rubric needs written rules and evidence for every score, and testing shows where it fails.
+- A claim I cannot verify is not the same as a claim that is false.
+- A small test can show a method but cannot decide which model is better.
+- High agreement between two annotators shows consistency, not correctness.
+- A safe model must help with harmless requests as well as decline harmful ones.
+
+## Status
+First round complete. Next: Python-based evaluation exercises and a second round that fixes the weaknesses my own tests found.
