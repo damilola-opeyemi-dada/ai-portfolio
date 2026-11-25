@@ -54,7 +54,7 @@ Full answers, evidence and scores are in model-comparison.md.
 ## Honest status
 - The answers are real outputs from the free versions of Gemini and DeepSeek, copied on 23 November 2026 and not edited. The prompts were chosen by me from suggestions. This is not client work.
 - I scored the answers myself and knew which model wrote each one.
-- This project is a first round. It is still in progress.
+- This is a first-round project. The method works, but the sample is small (see Limitations).
 
 ## Limitations
 - Only 5 prompts, one run each, on one day.
