@@ -42,7 +42,7 @@ AI responses can mix true statements with false ones in the same confident tone.
 ## Honest status
 - All responses are synthetic examples written for practice. This is not client work.
 - The study and researcher in claim check 2 were invented for the exercise.
-- This project is still in progress.
+- This is a first-round project. The method works, but the sample is small (see Limitations)
 
 ## Limitations
 - I checked 7 short responses, so these results show the method, not how often a real AI hallucinates.

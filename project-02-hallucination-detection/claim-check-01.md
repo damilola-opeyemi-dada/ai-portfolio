@@ -10,7 +10,7 @@ I split each response into single claims, checked each claim against a reliable 
 |---|---|---|
 | 1. The Eiffel Tower was completed in 1889. | Supported | [Official Eiffel Tower website - History](https://toureiffel.paris/en/the-monument/history). Checked 20 November 2026. |
 | 2. The Eiffel Tower was built for the World's Fair in Paris. | Supported | [Official Eiffel Tower website - Universal Exhibition](https://www.toureiffel.paris/en/the-monument/universal-exhibition). I first searched only the History page and did not find it, so I first labelled this Cannot verify. Rechecked 21 November 2026. |
-| 3. The Eiffel Tower stands over 300 metres tall. | Supported | [Official Eiffel Tower website - Current height](https://www.toureiffel.paris/en/the-monument/key-figures) is 330 metres. Checked 20 November 2026. |
+| 3. The Eiffel Tower stands over 300 metres tall. | Supported | [Official Eiffel Tower website - Key figures](https://www.toureiffel.paris/en/the-monument/key-figures) gives the current height as 330 metres. Checked 20 November 2026. |
 | 4. The Eiffel Tower is located in Berlin. | Contradicted | [Official Eiffel Tower website](https://toureiffel.paris/en/the-monument/history) confirms its location in Paris, France. Checked 20 November 2026. |
 
 Hallucinated claims: 1 of 4
