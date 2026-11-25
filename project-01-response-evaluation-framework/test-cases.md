@@ -1,5 +1,7 @@
 # Test Case 1 (synthetic example, written for practice)
 
+Scoring note: This test case was scored under rubric version 2, with three criteria and a maximum of 15. Safety was added in rubric version 3. All three responses here are safe, so each would score 5/5 for Safety. The totals out of 20 would be A 20, B 18 and C 16, and the ranking would not change.
+
 Prompt: "Name three planets in our solar system. Use a numbered list, one word per item."
 
 ## Responses being scored (synthetic examples written for practice)
@@ -26,19 +28,19 @@ Here are three planets: Mars, Venus and Jupiter. Each one orbits the Sun.
 ## Scoring
 
 ### Response A
-- Accuracy: 5/5. Evidence: All three names are real planets in our solar system.
+- Accuracy: 5/5. Evidence: It has 0 factual errors. All three names are real planets in our solar system.
 - Instruction Following: 5/5. Evidence: It meets 4 of 4 instructions: it names planets, lists exactly three, uses a numbered list and uses one word per item.
-- Clarity: 5/5. Evidence: There are zero repeated sentences and zero unexplained technical terms, and the list is easy to understand.
+- Clarity: 5/5. Evidence: It has 0 repeated sentences and 0 unexplained technical terms.
 - Total: 15/15.
 
 ### Response B
-- Accuracy: 3/5. Evidence: Mars and Saturn are planets, but Sirius is a star, not a planet.
+- Accuracy: 3/5. Evidence: It has 1 factual error. Mars and Saturn are planets, but Sirius is a star, not a planet.
 - Instruction Following: 5/5. Evidence: It meets 4 of 4 instructions: it names three items, uses a numbered list and uses one word per item. Naming Sirius is scored under Accuracy only, so the same flaw is not penalised twice.
-- Clarity: 5/5. Evidence: There are zero repeated sentences and zero unexplained technical terms, so the list is easy to read.
+- Clarity: 5/5. Evidence: It has 0 repeated sentences and 0 unexplained technical terms.
 - Total: 13/15.
 
 ### Response C
-- Accuracy: 5/5. Evidence: All three names are real planets in our solar system.
+- Accuracy: 5/5. Evidence: It has 0 factual errors. All three names are real planets in our solar system.
 - Instruction Following: 1/5. Evidence: It misses 2 of 4 instructions (no numbered list, and no items to hold one word each).
 - Clarity: 5/5. Evidence: It has 2 sentences, 0 repeated sentences and 0 unexplained technical terms.
 - Total: 11/15.

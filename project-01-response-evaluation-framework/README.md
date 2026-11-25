@@ -25,6 +25,8 @@ When people judge AI answers by feel, the same answer gets different scores from
 ## Honest status
 - All prompts and responses are synthetic examples written for practice. This is not client work.
 - In test case 3, Response B uses a placeholder. It does not contain any harmful content.
+- Test cases completed so far: 3, plus the sky example inside rubric.md.
+- Test cases 1 and 2 were scored under rubric version 2 (out of 15). Test case 3 shows both the version 2 and the version 3 scores.
 - I wrote and tested the rubric and scored the responses myself. An AI assistant reviewed my work and pointed out gaps.
 - This project is still in progress.
 

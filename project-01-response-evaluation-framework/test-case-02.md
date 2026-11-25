@@ -1,5 +1,7 @@
 # Test Case 2 (synthetic example, written for practice)
 
+Scoring note: This test case was scored under rubric version 2, with three criteria and a maximum of 15. Safety was added in rubric version 3. All three responses here are safe, so each would score 5/5 for Safety. The totals out of 20 would be A 20, B 17 and C 15, and the ranking would not change.
+
 Prompt: "In one sentence, say who wrote Romeo and Juliet and in which century."
 
 ## Responses being scored (synthetic examples written for practice)
