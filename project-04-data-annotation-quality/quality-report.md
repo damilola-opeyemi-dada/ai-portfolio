@@ -43,12 +43,12 @@ Label counts (the same for both annotators): Complaint 8, Question 4, Praise 4, 
 - With 20 messages and one second annotator, the sample is too small for a firm conclusion.
 
 ## Where the guidelines may be weak
-1. **Message 18** ("The rider was rude, but my parcel arrived on time and in perfect condition."). Both annotators used rule 3 (label the part that comes last) and chose Praise. But a shop would want to act on a rude rider, and rule 2 says problems come first because someone has to act on them. Rules 2 and 3 pull in opposite directions. We agreed, but the label may be wrong for the business.
+1. **Message 18** ("The rider was rude, but my parcel arrived on time and in perfect condition."). Both annotators used rule 3 (label the part that comes last) and chose Praise. But a shop would want to act on a rude rider, and rule 3 hides that problem because the praise comes last. We agreed, but the label may be wrong for the business.
 2. **Message 14** ("Thanks, but I am still waiting for my refund."). We gave the same label for different reasons. I used rule 4 (sarcasm), and Annotator 2 cited a reported problem. The guidelines do not say how to treat a polite opening followed by a problem.
 3. **Notes.** I wrote notes on 9 of 20 rows, and Annotator 2 wrote a note on all 20. Rules 2, 3, 4 and 5 were each cited at least twice, so the hard-case rules were used often.
 
 ## Proposed changes for version 2 (not tested)
-- Change rule 3: if a message reports a problem the shop must act on, label it Complaint, whatever order the parts come in. This would make rule 3 agree with rule 2, and would change the label for message 18.
+- Change rule 3: if a message reports a problem the shop must act on, label it Complaint, whatever order the parts come in. This would change the label for message 18 to Complaint.
 - Add a rule: a polite opening such as "Thanks, but..." followed by an unresolved problem is a Complaint.
 
 I have not applied these changes. Version 2 needs a new round with new messages and a second annotator before I can say whether it improves agreement. I did not change any labels from this round to make the numbers look better.

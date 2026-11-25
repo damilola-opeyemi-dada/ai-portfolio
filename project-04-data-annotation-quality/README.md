@@ -28,7 +28,7 @@ AI systems learn from labelled data. If annotators label the same item different
 ## Findings
 - On these 20 messages, the guidelines were consistent. Both annotators used the hard-case rules often, and cited rules 2, 3, 4 and 5.
 - 100% agreement does not show that the labels are correct, or that the guidelines would work on real messages. I wrote the test set, and several messages were close to the examples in the guidelines.
-- Rules 2 and 3 can conflict. For message 18 ("The rider was rude, but my parcel arrived on time and in perfect condition"), we both chose Praise by rule 3, but a shop would probably want to act on the rude rider.
+- Rule 3 can hide a problem the shop must act on. For message 18 ("The rider was rude, but my parcel arrived on time and in perfect condition"), we both chose Praise by rule 3, but a shop would probably want to act on the rude rider.
 - For message 14 ("Thanks, but I am still waiting for my refund"), we gave the same label for different reasons, which shows the guidelines do not clearly cover a polite opening followed by a problem.
 
 ## Recommendations
@@ -46,7 +46,7 @@ AI systems learn from labelled data. If annotators label the same item different
 ## Honest status
 - All messages are synthetic examples written for practice. No real customer data was used. This is not client work.
 - The first draft of the guidelines and the 20 messages were drafted with AI help. I applied the guidelines and labelled the messages myself.
-- I have not tested the proposed changes. This project is a first round and is still in progress.
+- I have not tested the proposed changes. This is a first-round project. The method works, but the sample is small (see Limitations).
 
 ## Limitations
 - 20 messages, one second annotator, one round.
