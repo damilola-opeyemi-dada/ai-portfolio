@@ -3,7 +3,7 @@
 I am Damilola. I am building practical skills in AI training and evaluation: judging AI responses, finding errors, and testing how reliable and safe AI systems are.
 
 ## About this repo
-This repository holds five projects from a first round of work. All prompts, responses and data are synthetic or clearly labelled, and none of it is client work. Each project has its own README with an honest status and a list of limitations.
+This repository holds five projects from a first round of work. Projects 2 and 4 use synthetic examples I wrote for practice. Projects 3 and 5 use real answers from free chatbots. None of it is client work. Each project has its own README with an honest status and a list of limitations.
 
 ## Projects
 1. [Response Evaluation Framework](project-01-response-evaluation-framework): a scoring rubric (version 3) with three test cases, and a record of where the rubric failed.
